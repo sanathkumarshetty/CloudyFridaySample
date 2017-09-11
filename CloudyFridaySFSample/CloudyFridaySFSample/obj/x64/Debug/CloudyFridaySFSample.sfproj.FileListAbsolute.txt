@@ -1,0 +1,3 @@
+c:\users\sanath.kumar\documents\visual studio 2017\Projects\CloudyFridaySFSample\CloudyFridaySFSample\obj\x64\Debug\CloudyFridaySFSample.sfprojResolveAssemblyReference.cache
+C:\Users\sanath.kumar\Desktop\Meetupcode\CloudyFridaySFSample\CloudyFridaySFSample\obj\x64\Debug\CloudyFridaySFSample.sfprojResolveAssemblyReference.cache
+C:\Users\sanath.kumar\Desktop\Meetupcode\CloudyFridaySFSample\CloudyFridaySFSample\obj\x64\Debug\CloudyFridaySFSample.sfproj.CoreCompileInputs.cache
